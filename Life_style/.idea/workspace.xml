@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67c9f480-efb3-4764-a956-f611a438ae76" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1978920780">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="6" />
+          <entry key="py" value="101" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="107" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2062728985">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="22" />
+          <entry key="py" value="2671" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2693" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="34" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Life_style_admin_filter_and_search_dichs.py" />
+        <option value="$PROJECT_DIR$/Life_style_admin_filter_and_search_ration.py" />
+        <option value="$PROJECT_DIR$/Life_style_calculator.py" />
+        <option value="$PROJECT_DIR$/Life_style_admin_edit_dish.py" />
+        <option value="$PROJECT_DIR$/Life_style_admin_deliveres_filters.py" />
+        <option value="$PROJECT_DIR$/Life_style_admin_filters_and_search_orders.py" />
+        <option value="$PROJECT_DIR$/Life_style_admin_statictics.py" />
+        <option value="$PROJECT_DIR$/Life_style_fill_out_anket_of_client.py" />
+        <option value="$PROJECT_DIR$/Life_style_find_company.py" />
+        <option value="$PROJECT_DIR$/Life_style_perform_zakaz.py" />
+        <option value="$PROJECT_DIR$/Life_style_find_company_on_main_page.py" />
+        <option value="$PROJECT_DIR$/Life_style_profile_cancel_order_and_invite_friend.py" />
+        <option value="$PROJECT_DIR$/Life_style_profile_send_review.py" />
+        <option value="$PROJECT_DIR$/Life_style_admin_create_ration.py" />
+        <option value="$PROJECT_DIR$/LifeStyle_admin_edit_profile.py" />
+        <option value="$PROJECT_DIR$/create_ration.py" />
+        <option value="$PROJECT_DIR$/for_testt/test_one.py" />
+        <option value="$PROJECT_DIR$/for_testt/test_three.py" />
+        <option value="$PROJECT_DIR$/for_testt/test_two.py" />
+        <option value="$PROJECT_DIR$/for_testt/test_parallel.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Life_style" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Life_style" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Life_style" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Life_style" type="462c0819:PsiDirectoryNode" />
+              <item name="for_testt" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for Life_style_admin_authorization.Admin_authorization">
+    <configuration name="Unittests for LifeStyle_admin_edit_profile.Admin_edit_profile_company.test_method_admin_edit_profile_company" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Life_style" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;LifeStyle_admin_edit_profile.Admin_edit_profile_company.test_method_admin_edit_profile_company&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Life_style_admin_authorization.Admin_authorization" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Life_style" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Life_style_admin_authorization.Admin_authorization&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Life_style_admin_create_ration.Admin_create_ration" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Life_style" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Life_style_admin_create_ration.Admin_create_ration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Life_style_admin_create_ration.Admin_create_ration.test_method_admin_create_ration" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Life_style" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Life_style_admin_create_ration.Admin_create_ration.test_method_admin_create_ration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Life_style" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;create_ration.Admin_create_ration.test_method_admin_create_ration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for LifeStyle_admin_edit_profile.Admin_edit_profile_company.test_method_admin_edit_profile_company" />
+      <item itemvalue="Python tests.Unittests for Life_style_admin_create_ration.Admin_create_ration.test_method_admin_create_ration" />
+      <item itemvalue="Python tests.Unittests for Life_style_admin_create_ration.Admin_create_ration" />
+      <item itemvalue="Python tests.Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" />
+      <item itemvalue="Python tests.Unittests for Life_style_admin_authorization.Admin_authorization" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for Life_style_admin_authorization.Admin_authorization" />
+        <item itemvalue="Python tests.Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" />
+        <item itemvalue="Python tests.Unittests for LifeStyle_admin_edit_profile.Admin_edit_profile_company.test_method_admin_edit_profile_company" />
+        <item itemvalue="Python tests.Unittests for Life_style_admin_create_ration.Admin_create_ration.test_method_admin_create_ration" />
+        <item itemvalue="Python tests.Unittests for Life_style_admin_create_ration.Admin_create_ration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67c9f480-efb3-4764-a956-f611a438ae76" name="Default Changelist" comment="" />
+      <created>1542917921654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542917921654</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_create_ration_Admin_create_ration_test_method_admin_create_ration - 2018.11.25 at 23h 43m 37s.xml">
+      <configuration name="Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_create_ration_Admin_create_ration_test_method_admin_create_ration - 2018.11.25 at 23h 47m 06s.xml">
+      <configuration name="Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_create_ration_Admin_create_ration_test_method_admin_create_ration - 2018.11.25 at 23h 50m 23s.xml">
+      <configuration name="Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_create_ration_Admin_create_ration_test_method_admin_create_ration - 2018.11.25 at 23h 53m 07s.xml">
+      <configuration name="Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_create_ration_Admin_create_ration_test_method_admin_create_ration - 2018.11.25 at 23h 59m 09s.xml">
+      <configuration name="Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_create_ration_Admin_create_ration_test_method_admin_create_ration - 2018.11.26 at 00h 01m 19s.xml">
+      <configuration name="Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_create_ration_Admin_create_ration_test_method_admin_create_ration - 2018.11.26 at 00h 05m 14s.xml">
+      <configuration name="Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_create_ration_Admin_create_ration_test_method_admin_create_ration - 2018.11.26 at 00h 09m 14s.xml">
+      <configuration name="Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_create_ration_Admin_create_ration_test_method_admin_create_ration - 2018.11.26 at 20h 05m 50s.xml">
+      <configuration name="Unittests for create_ration.Admin_create_ration.test_method_admin_create_ration" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Life_style_admin_authorization_Admin_authorization - 2018.11.26 at 22h 06m 26s.xml">
+      <configuration name="Unittests for Life_style_admin_authorization.Admin_authorization" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992658" visible="true" weight="0.30443975" />
+      <window_info id="Structure" order="1" sideWeight="0.5007342" side_tool="true" weight="0.24945612" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41040462" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.36950147" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32589838" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992658" visible="true" weight="0.2501813" />
+      <window_info id="Structure" order="1" sideWeight="0.5007342" side_tool="true" weight="0.24945612" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2657856" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32892805" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_admin_edit_dish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="600" selection-start-line="600" selection-end-line="600" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_admin_statictics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="78" column="79" lean-forward="true" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_fill_out_anket_of_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="923">
+          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_admin_filters_and_search_orders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="65" column="49" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_profile_cancel_order_and_invite_friend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="105" column="74" lean-forward="true" selection-start-line="105" selection-start-column="74" selection-end-line="105" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_find_company.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1183">
+          <caret line="89" column="87" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_admin_filter_and_search_ration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="65" column="40" lean-forward="true" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_perform_zakaz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="154" column="120" selection-start-line="154" selection-start-column="120" selection-end-line="154" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_find_company_on_main_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="124" column="21" lean-forward="true" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_admin_filter_and_search_dichs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="51" column="31" lean-forward="true" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_profile_send_review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="92" column="26" selection-start-line="91" selection-start-column="12" selection-end-line="92" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_admin_deliveres_filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="117" column="4" lean-forward="true" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LifeStyle_admin_edit_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="260" column="23" lean-forward="true" selection-start-line="260" selection-start-column="23" selection-end-line="260" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="65" column="28" lean-forward="true" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_admin_create_ration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="146" column="25" lean-forward="true" selection-start-line="141" selection-start-column="12" selection-end-line="146" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_ration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for_testt/test_parallel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for_testt/test_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for_testt/test_three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for_testt/test_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Life_style_admin_authorization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
