@@ -58,7 +58,7 @@ class Admin_edit_profile_company(unittest.TestCase):
 
     def setUp(self):
 
-        self.driver = webdriver.Chrome()
+        self.driver = self.driver = webdriver.Chrome('/Users/rufina/.jenkins/workspace/realtors_master/chromedriver');#webdriver.Chrome()
         self.driver.set_window_position(0, 0)  # устанавливает позицию левого вурзнего угла окна браузера
         self.driver.set_window_size(1440, 900)  # устанавливае мразмеры окна
         self.list_characters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q',
@@ -386,6 +386,3 @@ class Admin_edit_profile_company(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
-
-
