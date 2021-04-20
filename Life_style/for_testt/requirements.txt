@@ -1,4 +1,4 @@
-py==1.4.33
+py==1.10.0
 pytest==3.0.7
 selenium==3.6.0
 pytest-xdist==1.20.0
